@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "PHPUnit: Run",
+        "command": "phpunit"
+    },
+    {
+        "caption": "PHPUnit: Test current file",
+        "command": "phpunit_current_file",
+    },
+    {
+        "caption": "PHPUnit: Run with custom args",
+        "command": "phpunit_custom",
+    }
+]
